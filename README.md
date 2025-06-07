@@ -304,8 +304,6 @@ result := parser.ExecuteScript(ctx, db, scriptContent)
 | `updateMany` | ✅ | Multiple document update |
 | `deleteOne` | ✅ | Single document delete |
 | `deleteMany` | ✅ | Multiple document delete |
-| `find` | 🔄 | Coming soon |
-| `aggregate` | 🔄 | Coming soon |
 
 ## 🐛 Error Handling
 
